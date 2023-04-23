@@ -149,7 +149,7 @@ export default function Home() {
               <div className='shadow-lg lg:hover:scale-125 transition-all duration-700 items-center justify-center'>
                 <Image src={newhorizon} width={'100%'} height={'5rem'}/>
               </div>
-              <h3 className='text-lg font-medium, pt-8 pb-2'>Personal Website</h3>
+              <h3 className='text-lg font-medium, pt-8 pb-2'>New Horizons: A Casual Game</h3>
               <p className='py-2'>
                 Help the New Horizons probe dodge space debris on its way to Pluto! 
               </p>
