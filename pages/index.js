@@ -89,7 +89,7 @@ export default function Home() {
         <section>
           <div className="py-20 flex flex-col">
             <h3 className="text-3xl py-1">Hello, I'm H</h3>
-            <p className="text-md py-2 leading-10  text-gray-800 max-w-5xl">
+            <p className="text-md py-2 leading-10  text-gray-800">
               I'm a skilled Fullstack Developer blending technical prowess with
               a hospitality-inspired commitment to crafting exceptional digital
               solutions{" "}
